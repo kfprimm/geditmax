@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Copyright (C) 2011 Kevin Primm
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<style-scheme id="maxide" _name="MaxIDE" version="1.0">
+  <author>Kevin Primm</author>
+  <_description>MaxIDE coloring</_description>
+
+  <style name="bracket-match"  background="#333435" bold="true"/>
+  <style name="bracket-mismatch"  background="#333435" underline="true"/>
+  <style name="current-line"  background="#2b3947"/>
+  <style name="cursor" foreground="#ffffff"/>
+  <style name="def:base-n-integer" foreground="#a5c261"/>
+  <style name="def:boolean" foreground="#6e9cbe"/>
+  <style name="def:builtin" foreground="#6e9cbe"/>
+  <style name="def:character" foreground="#a5c261"/>
+  <style name="def:comment" foreground="#bbeeff" italic="true"/>
+  <style name="def:complex" foreground="#a5c261"/>
+  <style name="def:constant" foreground="#6d9cbe"/>
+  <style name="def:decimal" foreground="#a5c261"/>
+  <style name="def:doc-comment" foreground="#bc9458" italic="true"/>
+  <style name="def:doc-comment-element" foreground="#bc9458" italic="true"/>
+  <style name="def:error" foreground="#ffffff" background="#990000"/>
+  <style name="def:floating-point" foreground="#a5c261"/>
+  <style name="def:function" foreground="#ffc66d"/>
+  <style name="def:identifier" foreground="#d0d0ff"/>
+  <style name="def:keyword" foreground="#ffff00"/>
+  <style name="def:note" foreground="#bc9458" italic="true"/>
+  <style name="def:number" foreground="#a5c261"/>
+  <style name="def:operator" foreground="#cc7833"/>
+  <style name="def:preprocessor" foreground="#a5c261"/>
+  <style name="def:reserved" foreground="#cc7833"/>
+  <style name="def:shebang" foreground="#bc9458" italic="true"/>
+  <style name="def:special-char" foreground="#519f50"/>
+  <style name="def:special-constant" foreground="#6e9cbe"/>
+  <style name="def:statement" foreground="#cc7833"/>
+  <style name="def:string" foreground="#00ff66"/>
+  <style name="def:type" foreground="#6e9cbe"/>
+  <style name="draw-spaces" foreground="#404040"/>
+  <style name="line-numbers" foreground="#e6e1dc" background="#3a4d60"/>
+  <style name="search-match"  background="#333435" bold="true" underline="true"/>
+  <style name="selection" foreground="#e6e1dc" background="#545d73"/>
+  <style name="text" foreground="#ffffff" background="#334455"/>
+</style-scheme>
+
